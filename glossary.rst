@@ -54,6 +54,11 @@ boulders. (`1 <https://en.wikipedia.org/wiki/Grain_size>`_)
 of place, environment, and history. See `Wikipedia <https://en.wikipedia.org/wiki/Pedogenesis>`_
 for more information on Pedogensis.
 
+**`Photosynthesis <https://en.wikipedia.org/wiki/Photosynthesis>`_** is a
+process used by plants and other organisms to convert light energy into
+chemical energy that can later be released to fuel the organisms' activities
+(energy transformation).
+
 
 W
 -
