@@ -18,6 +18,15 @@ The remaining twelve (12) nutrient elements are obtained from the soil. These
 remaining nutrient elements are separated into three (3) groups.
 
 **Group I** Primary Nutrients
+
++------------+----------------+-------------------------------------+
+| Element    | Abbreviation   | Form Absorbed                       |
++============+================+=====================================+
+| Nitrogen   | N              | Ammonium NH :sub:`4` :sup:`+`       |
++------------+----------------+ Nitrate NO :sub:`3` :sup:`-`        |
++------------+----------------+-------------------------------------+
+
+
 4. Nitrogen
     Abbreviation: N
     Form Absorbed
