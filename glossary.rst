@@ -1,6 +1,13 @@
 Glossary
 ========
 
+A
+-
+
+**Astronomical Data Systems**, references such as `SIMBAD <https://en.wikipedia.org/wiki/SIMBAD>`, `NASA/IPAC
+Extragalactic Database <https://en.wikipedia.org/wiki/NASA/IPAC_Extragalactic_Database>`,
+and `Astrophysics Data System <https://en.wikipedia.org/wiki/Astrophysics_Data_System>`
+
 B
 -
 
