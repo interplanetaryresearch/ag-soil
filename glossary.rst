@@ -4,9 +4,9 @@ Glossary
 A
 -
 
-**Astronomical Data Systems**, references such as `SIMBAD <https://en.wikipedia.org/wiki/SIMBAD>`, `NASA/IPAC
-Extragalactic Database <https://en.wikipedia.org/wiki/NASA/IPAC_Extragalactic_Database>`,
-and `Astrophysics Data System <https://en.wikipedia.org/wiki/Astrophysics_Data_System>`
+**Astronomical Data Systems**, references such as `SIMBAD <https://en.wikipedia.org/wiki/SIMBAD>`_, `NASA/IPAC
+Extragalactic Database <https://en.wikipedia.org/wiki/NASA/IPAC_Extragalactic_Database>`_,
+and `Astrophysics Data System <https://en.wikipedia.org/wiki/Astrophysics_Data_System>`_.
 
 B
 -
@@ -30,7 +30,7 @@ D
 
 **Digital object identifier**, a persistent identifier or handle used to
 uniquely identify objects, standardized by the International Organization for
-Standardization (ISO). (`See ISO 26324:2012(en) <https://www.iso.org/obp/ui/#iso:std:iso:26324:ed-1:v1:en>`)
+Standardization (ISO). (`See ISO 26324:2012(en) <https://www.iso.org/obp/ui/#iso:std:iso:26324:ed-1:v1:en>`_)
 
 G
 -
@@ -40,7 +40,7 @@ G
 I
 -
 
-**ISO 14688-1:2002**, see `Wikipedia <https://en.wikipedia.org/wiki/Grain_size#International_scale>`
+**ISO 14688-1:2002**, see `Wikipedia <https://en.wikipedia.org/wiki/Grain_size#International_scale>`_
 
 P
 -
@@ -48,7 +48,7 @@ P
 **Particle Size**, refers to the diameter of individual grains of sediment, or
 the lithified particles in clastic rocks. Granular material can range from very
 small colloidal particles, through clay, silt, sand, gravel, and cobbles, to
-boulders. (`1 <https://en.wikipedia.org/wiki/Grain_size>`)
+boulders. (`1 <https://en.wikipedia.org/wiki/Grain_size>`_)
 
 **Pedogenesis**, is the process of soil formation as regulated by the effects
 of place, environment, and history. See `Wikipedia <https://en.wikipedia.org/wiki/Pedogenesis>`_
@@ -65,4 +65,4 @@ scientifically. See also ISO 14688-1:2002
     .. image:: /resources/images/wentworth_scale.png
 
     `Wentworth grain size chart from United States Geological Survey Open-File
-    Report 2006-1195 <https://en.wikipedia.org/wiki/Grain_size#Krumbein_Phi_Scale-United_States>`
+    Report 2006-1195 <https://en.wikipedia.org/wiki/Grain_size#Krumbein_Phi_Scale-United_States>`_
