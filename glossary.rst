@@ -1,6 +1,30 @@
 Glossary
 ========
 
+B
+-
+
+**Bibcode**, (also known as the refcode) is a compact identifier used by
+several astronomical data systems to uniquely specify literature references.
+
+    The code has a fixed length of 19 characters and has the form
+
+        YYYYJJJJJVVVVMPPPPA
+
+    *YYYY*: Four-digit year of the reference
+    *JJJJJ*: A code indicating where the reference was published
+    *VVVV*: In the case of a journal reference, VVVV is the volume number
+    *M*: Section of the journal where the reference was published
+    *PPPP*: Starting page number
+    *A*: First letter of the last name of the first author
+
+D
+-
+
+**Digital object identifier**, a persistent identifier or handle used to
+uniquely identify objects, standardized by the International Organization for
+Standardization (ISO). (`See ISO 26324:2012(en) <https://www.iso.org/obp/ui/#iso:std:iso:26324:ed-1:v1:en>`)
+
 G
 -
 
