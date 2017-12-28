@@ -20,7 +20,7 @@ remaining nutrient elements are separated into three (3) groups.
 **Group I** Primary Nutrients
 4. Nitrogen
     Abbreviation: N
-    Form Absorbed: NH :sub:`4` :sup:`+` (ammonium) and NO:subscript:`3`:superscript:`-` (nitrate)
+    Form Absorbed: NH:sub:`4`:sup:`+` (ammonium) and NO:sub:`3`:sup:`-` (nitrate)
 5. Phosphorus†
 6. Potassium
 
