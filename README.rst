@@ -23,7 +23,7 @@ remaining nutrient elements are separated into three (3) groups.
 | Element    | Abbreviation   | Form Absorbed                       |
 +============+================+=====================================+
 | Nitrogen   | N              | Ammonium NH :sub:`4` :sup:`+`       |
-+------------+----------------+ Nitrate NO :sub:`3` :sup:`-`        |
+|            |                | Nitrate NO :sub:`3` :sup:`-`        |
 +------------+----------------+-------------------------------------+
 
 
