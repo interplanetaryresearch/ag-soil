@@ -6,13 +6,18 @@ G
 
 **Grain Size**, see **Particle Size**.
 
+I
+-
+
+**ISO 14688-1:2002**, see `Wikipedia <https://en.wikipedia.org/wiki/Grain_size#International_scale>`
+
 P
 -
 
 **Particle Size**, refers to the diameter of individual grains of sediment, or
 the lithified particles in clastic rocks. Granular material can range from very
 small colloidal particles, through clay, silt, sand, gravel, and cobbles, to
-boulders. (`1 <https://en.wikipedia.org/wiki/Grain_size#Krumbein_Phi_Scale-United_States>`)
+boulders. (`1 <https://en.wikipedia.org/wiki/Grain_size>`)
 
 **Pedogenesis**, is the process of soil formation as regulated by the effects
 of place, environment, and history. See `Wikipedia <https://en.wikipedia.org/wiki/Pedogenesis>`_
@@ -24,7 +29,7 @@ W
 
 **Wentworth Scale** is a logarithmic scale created for the purpose of defining
 a range of sizes, limits, and classes to help us better understand soils
-scientifically.
+scientifically. See also ISO 14688-1:2002
 
 .. image:: /resources/images/wentworth_scale.png
 `Wentworth grain size chart from United States Geological Survey Open-File
