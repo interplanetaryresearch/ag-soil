@@ -55,6 +55,7 @@ W
 a range of sizes, limits, and classes to help us better understand soils
 scientifically. See also ISO 14688-1:2002
 
-.. image:: /resources/images/wentworth_scale.png
-`Wentworth grain size chart from United States Geological Survey Open-File
-Report 2006-1195 <https://en.wikipedia.org/wiki/Grain_size#Krumbein_Phi_Scale-United_States>`
+    .. image:: /resources/images/wentworth_scale.png
+
+    `Wentworth grain size chart from United States Geological Survey Open-File
+    Report 2006-1195 <https://en.wikipedia.org/wiki/Grain_size#Krumbein_Phi_Scale-United_States>`
