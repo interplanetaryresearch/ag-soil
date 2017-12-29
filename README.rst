@@ -56,3 +56,7 @@ remaining nutrient elements are separated into three (3) groups.
 † Many soils are deficient of Phosphorus.
 
 https://www.ctahr.hawaii.edu/mauisoil/c_nutrients.aspx
+
+Additional Reading
+------------------
+https://extension.psu.edu/programs/nutrient-management/educational/soil-fertility
