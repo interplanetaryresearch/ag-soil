@@ -54,3 +54,5 @@ remaining nutrient elements are separated into three (3) groups.
 18. Nickel
 
 † Many soils are deficient of Phosphorus.
+
+https://www.ctahr.hawaii.edu/mauisoil/c_nutrients.aspx

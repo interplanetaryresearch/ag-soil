@@ -59,6 +59,15 @@ process used by plants and other organisms to convert light energy into
 chemical energy that can later be released to fuel the organisms' activities
 (energy transformation).
 
+R
+-
+
+**`Regolith <https://en.wikipedia.org/wiki/Regolith>`_** is a layer of loose,
+heterogeneous superficial deposits covering solid rock. It includes dust, soil,
+broken rock, and other related materials and is present on Earth, the Moon,
+Mars, some asteroids, and other terrestrial planets and moons.
+
+    See also https://en.wikipedia.org/wiki/Martian_regolith_simulant
 
 W
 -
